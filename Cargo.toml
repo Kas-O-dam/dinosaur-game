@@ -7,6 +7,8 @@ edition = "2021"
 
 [dependencies]
 console = "0.15.7"
-mairs = "0.1.0"
+mairs = "0.1.5"
+rand = "0.8.5"
 thread = "0.1.0"
 time = "0.3.23"
+yaml-rust = "0.4.5"
